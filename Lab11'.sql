@@ -1,5 +1,5 @@
 --1.Viết hàm diemtb dạng Scarlar function tính điểm trung bình của một sinh viên bất kỳ
-go
+
 create function diemtb (@msv char(5))
 returns float
 as
